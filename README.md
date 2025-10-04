@@ -1,1 +1,1 @@
-# Wind speed forecasting model 
+# Wind speed forecasting model using Nhits 
